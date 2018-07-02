@@ -2,28 +2,28 @@
    "error":false,
    "icone":[
       {
-         "nome":"Icone 1",
-         "desc":"Icone A.",
+         "nome":"Icon 1",
+         "desc":"Icon A.",
          "url_foto":"https://cdn.pixabay.com/photo/2017/03/05/21/55/emoticon-2120024_960_720.png"
       },
       {
-         "nome":"Icone 2",
-         "desc":"Icone AB.",
+         "nome":"Icon 2",
+         "desc":"Icon AB.",
          "url_foto":"https://icon-icons.com/icons2/10/PNG/128/negative_emoticon_icon_1561.png"
       },
       {
-         "nome":"Icone 3",
-         "desc":"Icone ABC.",
+         "nome":"Icon 3",
+         "desc":"Icon ABC.",
          "url_foto":"https://cdn4.iconfinder.com/data/icons/aami-flat-smileys/64/smile-42-128.png"
       },
       {
-         "nome":"Icone 4",
-         "desc":"Icone ABCD.",
+         "nome":"Icon 4",
+         "desc":"Icon ABCD.",
          "url_foto":"https://findicons.com/files/icons/360/emoticons/128/ok.png"
       },
       {
-         "nome":"Icone 5",
-         "desc":"Icone ABCDE.",
+         "nome":"Icon 5",
+         "desc":"Icon ABCDE.",
          "url_foto":"https://cdn.icon-icons.com/icons2/722/PNG/256/Smiley-16_256_icon-icons.com_62518.png"
       }
    ]
