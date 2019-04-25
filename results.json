@@ -1,0 +1,52 @@
+{
+	"matches":[
+		{
+			"team1":"Paris",
+			"team2":"Chelsea",
+			"team1_points":2,
+			"team2_points":1
+		},
+		{
+			"team1":"Benfica",
+			"team2":"Zenit",
+			"team1_points":1,
+			"team2_points":0
+		},
+		{
+			"team1":"Gent",
+			"team2":"Wolfsburg",
+			"team1_points":2,
+			"team2_points":3
+		},
+		{
+			"team1":"Roma",
+			"team2":"Real Madrid",
+			"team1_points":0,
+			"team2_points":2
+		},
+		{
+			"team1":"Arsenal",
+			"team2":"Barcelona",
+			"team1_points":0,
+			"team2_points":2
+		},
+		{
+			"team1":"Juventus",
+			"team2":"Bayern",
+			"team1_points":2,
+			"team2_points":2
+		},
+		{
+			"team1":"PSV",
+			"team2":"Atlético",
+			"team1_points":0,
+			"team2_points":0
+		},
+		{
+			"team1":"Dynamo Kyiv",
+			"team2":"Man. City",
+			"team1_points":1,
+			"team2_points":3
+		}
+	]
+}
